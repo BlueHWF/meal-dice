@@ -1,0 +1,82 @@
+[
+  {
+    "name": "鸡腿饭",
+    "emoji": "🍗",
+    "search": "chicken rice"
+  },
+  {
+    "name": "面条",
+    "emoji": "🍜",
+    "search": "Chinese noodles",
+    "image": {
+      "url": "./assets/meal-2.jpg",
+      "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Chinese_noodles.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "source": "https://commons.wikimedia.org/wiki/File:Chinese_noodles.JPG",
+      "author": "Youngjediboy at English Wikipedia",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "title": "Chinese noodles.JPG",
+      "note": ""
+    }
+  },
+  {
+    "name": "米粉",
+    "emoji": "🥢",
+    "search": "Guilin rice noodles",
+    "image": {
+      "url": "./assets/meal-3.jpg",
+      "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Guilin_rice_noodles_in_Beijing_%2820150915111711%29.jpg/960px-Guilin_rice_noodles_in_Beijing_%2820150915111711%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Guilin_rice_noodles_in_Beijing_(20150915111711).jpg",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "Guilin rice noodles in Beijing (20150915111711).jpg",
+      "note": ""
+    }
+  },
+  {
+    "name": "猪脚饭",
+    "emoji": "🍖",
+    "search": "pork feet rice",
+    "image": {
+      "url": "./assets/meal-4.jpg",
+      "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Longjiang_pork_feet_rice_taken_in_Suzhou-20210925.jpg/960px-Longjiang_pork_feet_rice_taken_in_Suzhou-20210925.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Longjiang_pork_feet_rice_taken_in_Suzhou-20210925.jpg",
+      "author": "Shwangtianyuan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "Longjiang pork feet rice taken in Suzhou-20210925.jpg",
+      "note": ""
+    }
+  },
+  {
+    "name": "出去吃",
+    "emoji": "🍽️",
+    "search": "Chinese restaurant interior",
+    "image": {
+      "url": "./assets/meal-5.jpg",
+      "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/HK_Central_City_Hall_lower_block_Chinese_restaurant_interior_Oct-2012.jpg/960px-HK_Central_City_Hall_lower_block_Chinese_restaurant_interior_Oct-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:HK_Central_City_Hall_lower_block_Chinese_restaurant_interior_Oct-2012.jpg",
+      "author": "Coffaemaloo",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "HK Central City Hall lower block Chinese restaurant interior Oct-2012.jpg",
+      "note": ""
+    }
+  },
+  {
+    "name": "凉拌鸡丝饭",
+    "emoji": "🥗",
+    "search": "shredded chicken rice",
+    "image": {
+      "url": "./assets/meal-6.jpg",
+      "remoteUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Shredded_Chicken_with_Rice.jpg/960px-Shredded_Chicken_with_Rice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Shredded_Chicken_with_Rice.jpg",
+      "author": "Ceeseven",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "Shredded Chicken with Rice.jpg",
+      "note": "鸡丝饭参考图，未注明凉拌"
+    }
+  }
+]
